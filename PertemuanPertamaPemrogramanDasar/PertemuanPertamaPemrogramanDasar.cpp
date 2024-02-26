@@ -19,4 +19,7 @@ int main()
     cout << "Luasnya adalah = " << nLuas << endl;
 
     //test komen aja sih
+
+    // 20230140095
+    // Zhilal Fadiah Krisna
 }// end
